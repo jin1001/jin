@@ -1,2 +1,2 @@
-# slcmd.bash
-#slcmd
+#!/bin/bash
+sl -a
