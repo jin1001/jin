@@ -1,1 +1,2 @@
-# slcmd
+# slcmd.bash
+#slcmd
