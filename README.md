@@ -1,2 +1,2 @@
-#!/bin/bash
-sl -a
+#slcommand
+#AGU情報社会論
